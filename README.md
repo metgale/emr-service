@@ -1,1 +1,2 @@
-Web service (REST) used by mobile app for data exchange. 
+RESTful service, CakePHP.
+Used by Android application, eMovieReviews.
